@@ -1,0 +1,29 @@
+{
+  "name": "node_jasmine",
+  "version": "1.0.0",
+  "description": "node jasmine setup",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyingwip/node_jasmine.git"
+  },
+  "keywords": [
+    "jasmine",
+    "node",
+    "unit",
+    "test"
+  ],
+  "author": "martijn wip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flyingwip/node_jasmine/issues"
+  },
+  "homepage": "https://github.com/flyingwip/node_jasmine#readme"
+}
