@@ -13,7 +13,7 @@ describe("Player", function() {
     player.play(song);
     expect(player.currentlyPlayingSong).toEqual(song);
 
-    console.log('test');  
+    console.log('test blaat');  
     //demonstrates use of custom matcher
     expect(player).toBePlaying(song);
   });
